@@ -1,4 +1,4 @@
-# Huong Pham, RedID: 824992682, Final Project GEOG-582, Fall 2020
+# Huong Pham, RedID: xxxxxxx, Final Project GEOG-582, Fall 2020
 
 import os
 import time
