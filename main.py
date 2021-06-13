@@ -1,4 +1,4 @@
-# Huong Pham, RedID: 824992682, Final Project GEOG-582, Fall 2020
+# Huong Pham, RedID: xxx, Final Project GEOG-582, Fall 2020
 
 import pandas as pd
 from finalproject_pham.libs.choropleth_pham import PointMap, PolygonMap, get_us_county_map
